@@ -159,28 +159,7 @@ body{color:var(--ink)}.topbar{background:#111316;color:#e8e9eb}.topbar svg{color
   object-position: center top !important;
 }
 
-/* NABWIRE OBARA: THEME + GUARANTEED UNCROPPED ATTORNEY PORTRAITS */
-:root{--navy:#063b69;--gold:#f6a619;--accent:#f6a619;--dark:#063b69;}
-.topbar,.site-footer{background:#063b69!important}.hero{background-image:linear-gradient(90deg,rgba(30,8,21,.9),rgba(30,8,21,.45)),var(--hero-image)!important;background-size:cover!important;background-position:center!important}.page-hero{background-image:linear-gradient(90deg,rgba(30,8,21,.88),rgba(30,8,21,.48)),var(--page-hero-image)!important;background-size:cover!important;background-position:center!important}
-.intro-picture img,.attorney-photo img,.attorney-portrait img,.profile-image img,main img[src*="isabella-"]{width:100%!important;height:auto!important;max-height:none!important;aspect-ratio:auto!important;object-fit:contain!important;object-position:top center!important;}
-.brand img{width:165px!important;max-width:165px!important;height:auto!important;object-fit:contain!important}.footer-logo img{width:min(300px,100%)!important;height:auto!important;object-fit:contain!important}
-
-/* Nabwire Obara approved logo palette – burgundy/maroon, cream, white only. */
-:root{--gold:#f6a619;--gold-light:#f3dce3;--red:#f6a619;--accent:#f6a619;--navy:#063b69;--navy-deep:#270e1b;--navy-soft:#53243a;--cream:#fbf7f8}
-.topbar,.site-footer{background:#063b69!important}
-.btn-gold,.hero .btn-gold{background:#f6a619!important;border-color:#f6a619!important;color:#fff!important}
-.btn-gold:hover,.hero .btn-gold:hover{background:#70112b!important;border-color:#70112b!important;color:#fff!important}
-.nav-link::after,.accent-line,.hero-notes span::before{background:#f6a619!important}
-.eyebrow,.value-grid span,.three-values span{color:#f6a619!important}
-.hero .eyebrow,.page-hero .eyebrow,.section-navy .eyebrow{color:#f3dce3!important}
-.eyebrow-light,.hero h1 em,.card-number,.picture-stamp small{color:#f3dce3!important}
-.intro-picture::before{border-color:#ead9df!important}
-.intro-copy blockquote{border-left-color:#f6a619!important}
-.footer-logo{max-width:340px!important;width:100%;background:transparent!important}
-.footer-logo img{display:block!important;width:min(330px,100%)!important;max-width:100%!important;max-height:none!important;height:auto!important;object-fit:contain!important;object-position:left center!important;background:transparent!important;filter:none!important;opacity:1!important}
-@media(max-width:650px){.footer-logo img{width:min(310px,100%)!important}}
-
-/* ROSEMAY MONYANGI — ORIGINAL BRAND PALETTE, PORTRAIT & FOOTER QUALITY */
+/* ROSEMAY MONYANGI — BRAND PALETTE AND PORTRAIT SETTINGS */
 :root{--navy:#07518c!important;--gold:#f6a619!important;--accent:#0783cd!important;--dark:#063b69!important}
 .topbar,.site-footer{background:#063b69!important}
 .hero{background-image:linear-gradient(90deg,rgba(4,39,75,.91),rgba(4,39,75,.40)),var(--hero-image)!important;background-size:cover!important;background-position:center!important}
